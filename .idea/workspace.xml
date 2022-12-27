@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ec06a6-9827-4c29-847a-8405475dff1c" name="Changes" comment="">
+    <list default="true" id="82ec06a6-9827-4c29-847a-8405475dff1c" name="Changes" comment="Create factorial function and create basic tests">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FactorialTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestFactorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,11 +111,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672172979142</updated>
-      <workItem from="1672172980501" duration="2679000" />
+      <workItem from="1672172980501" duration="3079000" />
     </task>
+    <task id="LOCAL-00001" summary="Create factorial function and create basic tests">
+      <created>1672176059234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672176059234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create factorial function and create basic tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create factorial function and create basic tests" />
   </component>
 </project>
